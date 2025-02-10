@@ -91,7 +91,7 @@
 
 ##
 <div align="center">
-  <img src="https://github.com/huzongxiang/StreamIntellect/blob/resources/fig5.png" alt="speed" style="width: 80%;">
+  <img src="https://github.com/huzongxiang/StreamIntellect/blob/resources/fig6.png" alt="speed" style="width: 80%;">
 </div>
 
 ## 技术栈
