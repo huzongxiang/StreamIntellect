@@ -62,6 +62,33 @@
   - 处理进度查询（通过日志文件）
   - 错误追踪（自动生成error.txt）
 
+## 平台展示
+
+##
+<div align="center">
+  <img src="https://github.com/huzongxiang/StreamIntellect/blob/resources/fig1.png" alt="speed" style="width: 80%;">
+</div>
+
+##
+<div align="center">
+  <img src="https://github.com/huzongxiang/StreamIntellect/blob/resources/fig2.png" alt="speed" style="width: 80%;">
+</div>
+
+##
+<div align="center">
+  <img src="https://github.com/huzongxiang/StreamIntellect/blob/resources/fig3.png" alt="speed" style="width: 80%;">
+</div>
+
+##
+<div align="center">
+  <img src="https://github.com/huzongxiang/StreamIntellect/blob/resources/fig4.png" alt="speed" style="width: 80%;">
+</div>
+
+##
+<div align="center">
+  <img src="https://github.com/huzongxiang/StreamIntellect/blob/resources/fig5.png" alt="speed" style="width: 80%;">
+</div>
+
 ## 技术栈
 
 ### 后端框架
